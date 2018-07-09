@@ -38,13 +38,14 @@
 
 #### 预览图
 1. 默认效果<br/>
-![默认效果](https://gitee.com/supperzh/zplayer/raw/master/img/default.png?v=1.0)
+![默认效果](https://github.com/523179414/zplayer/blob/master/img/default.png?raw=true)
 
 2.歌词+不固定效果<br/>
-![歌词不固定效果](https://gitee.com/supperzh/zplayer/raw/master/img/lrc.png?v=1.0)
+
+![歌词不固定效果](https://github.com/523179414/zplayer/blob/master/img/lrc.png?raw=true)
 
 3. 固定底部（折叠）效果<br/>
-![固定效果](https://gitee.com/supperzh/zplayer/raw/master/img/fixed.png?v=1.0)
+![固定效果](https://github.com/523179414/zplayer/blob/master/img/fixed.png?raw=true)
 
 
 		        
